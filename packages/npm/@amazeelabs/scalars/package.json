@@ -18,21 +18,21 @@
     "@amazeelabs/bridge": "workspace:*",
     "hast-util-select": "^5.0.5",
     "query-string": "^8.1.0",
-    "rehype-parse": "^8.0.4",
+    "rehype-parse": "^8.0.5",
     "rehype-react": "^7.2.0",
     "rehype-slug": "^5.1.0",
-    "remeda": "^1.19.0",
+    "remeda": "^1.27.0",
     "unified": "^10.1.2"
   },
   "optionalDependencies": {
     "@amazeelabs/eslint-config": "1.4.43",
     "@amazeelabs/prettier-config": "1.1.3",
-    "@types/hast": "^2.3.4",
-    "@types/react": "^18.2.12",
-    "eslint": "^8.42.0",
+    "@types/hast": "^2.3.6",
+    "@types/react": "^18.2.22",
+    "eslint": "^8.50.0",
     "prettier": "^2.8.8",
-    "typescript": "^5.1.3",
-    "vitest": "^0.32.0"
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.5"
   },
   "peerDependencies": {
     "react": "^18.2.0"
@@ -41,7 +41,7 @@
     "@amazeelabs/eslint-config": "1.4.43",
     "@amazeelabs/prettier-config": "1.1.3",
     "@swc/cli": "0.1.62",
-    "@swc/core": "1.3.64"
+    "@swc/core": "1.3.88"
   },
   "keywords": [],
   "author": "AmazeeLabs <development@amazeelabs.com>"
